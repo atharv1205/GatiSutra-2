@@ -4,7 +4,7 @@ const About = () => {
   return (
     <div className="space-y-6 max-w-4xl mx-auto">
       <div className="text-center space-y-4">
-        <h1 className="text-4xl font-bold text-foreground">About Smart Energy Management System</h1>
+        <h1 className="text-4xl font-bold text-foreground">About AI-Driven Campus Energy Intelligence System</h1>
         <p className="text-lg text-muted-foreground">
           A comprehensive platform for intelligent campus energy optimization
         </p>
@@ -16,7 +16,7 @@ const About = () => {
         </CardHeader>
         <CardContent className="space-y-4 text-muted-foreground">
           <p>
-            The Smart Energy Management System is an integrated solution designed to revolutionize how educational institutions
+            The AI-Driven Campus Energy Intelligence System is an integrated solution designed to revolutionize how educational institutions
             manage, optimize, and sustain their energy infrastructure. By combining cutting-edge AI, IoT sensors, and real-time
             analytics, we enable campuses to achieve unprecedented levels of efficiency while reducing costs and environmental impact.
           </p>
@@ -133,7 +133,7 @@ const About = () => {
             </div>
             <div>
               <p className="font-medium">Email</p>
-              <p className="text-sm text-muted-foreground">support@energyhub.edu</p>
+              <p className="text-sm text-muted-foreground">support@gatisutra.com</p>
             </div>
           </div>
           <div className="flex items-center gap-3">
@@ -142,7 +142,7 @@ const About = () => {
             </div>
             <div>
               <p className="font-medium">Phone</p>
-              <p className="text-sm text-muted-foreground">+1-800-ENERGY-HUB</p>
+              <p className="text-sm text-muted-foreground">+91-0000000000</p>
             </div>
           </div>
           <div className="flex items-center gap-3">
@@ -151,7 +151,7 @@ const About = () => {
             </div>
             <div>
               <p className="font-medium">Website</p>
-              <p className="text-sm text-muted-foreground">www.energyhub.edu</p>
+              <p className="text-sm text-muted-foreground">www.gatisutra.com</p>
             </div>
           </div>
         </CardContent>

@@ -44,7 +44,7 @@ const DashboardLayout = () => {
       >
         <div className="p-4 border-b border-sidebar-border flex items-center justify-between">
           {sidebarOpen && (
-            <h1 className="text-lg font-bold text-sidebar-foreground">Energy Hub</h1>
+            <h1 className="text-lg font-bold text-sidebar-foreground">Gatisutra</h1>
           )}
           <Button
             variant="ghost"
@@ -82,7 +82,7 @@ const DashboardLayout = () => {
         {/* Navbar */}
         <header className="bg-card border-b border-border px-6 py-4 flex items-center justify-between shadow-sm">
           <h2 className="text-2xl font-bold text-foreground">
-            Smart Energy Management System
+            AI-Driven Campus Energy Intelligence System
           </h2>
           <Button
             variant="outline"
